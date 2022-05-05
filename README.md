@@ -2,13 +2,21 @@ Game created with Unity that utilises procedural generation to create the terrai
 
 Sources for project
 [1] - Lague, S. (2016). Procedural Landmass Generation [C#]. https://github.com/SebLague/Procedural-Landmass-Generation/tree/master/Proc%20Gen%20E13
+
 [2] -- Bridson, R. (2007, August 5). Fast Poisson Disk Sampling in Arbitrary Dimensions. Fast Poisson Disk Sampling in Arbitrary Dimensions. Siggraph, Vancouver, Canada. https://doi.org/https://doi.org/10.1145/1278780.1278807
+
 [3] - Abbitt, G. (2019, July 29). Create A Low Poly Well. https://www.youtube.com/watch?v=OlnkGCdtGEw
+
 [4] - RigidBody Fps Controller . (2020, December 5). https://www.youtube.com/watch?v=LqnPeqoJRFY&t=3s
+
 [4.1] - RigidBody Fps Controller . (2021, January 25). https://www.youtube.com/watch?v=E5zNi_SSP_w
+
 [4.2] - RigidBody Fps Controller . (2021, February 21) https://www.youtube.com/watch?v=cTIAhwlvW9M&t=5s
+
 [5] - FPS Movement. (2021, December 8). https://www.youtube.com/watch?v=rJqP5EesxLk
+
 [5.1] - FPS Movement. (2022, February 22).  https://www.youtube.com/watch?v=gPPGnpV1Y1c&t=1018s
+
 [6] - Papush, R. (2019, July 21). Clouds With Shader Graph. https://www.youtube.com/watch?v=Y7r5n5TsX_E
 
 File Name / Location in relation to Game-main folder 	Source 
